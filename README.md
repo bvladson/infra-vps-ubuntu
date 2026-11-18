@@ -152,3 +152,11 @@ O endereço real da VPS foi trocado pelo IP de documentação `203.0.113.10` (RF
 endereço verdadeiro é, de qualquer forma, o registro DNS público dos domínios. O
 identificador da instância foi trocado por `srv-vps`. Nenhuma credencial, chave ou dado de
 cliente aparece aqui.
+
+---
+
+## Autoria
+
+Projeto meu — concepção, arquitetura, implementação, implantação e operação em produção.
+Durante o desenvolvimento usei assistentes de IA (Codex e Claude) como ferramenta de apoio;
+a condução e as decisões técnicas são minhas.
